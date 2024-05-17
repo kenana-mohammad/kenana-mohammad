@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenana-mohammad
 - web developer
 - skills: backend:Laravel;php;Sql
-- .Js..Bootstrap..jqery..css .html 
+- .Js..Bootstrap..jqurey..css .html ..React
 - 
 
 <!---
