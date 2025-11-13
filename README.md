@@ -19,14 +19,21 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 
 ---
 ### 🔥 Featured Projects
+### 🔥 Featured Projects
 
-* **[Perfume Store Back-End]** - System designed to manage internal e-commerce operations including product, order, and user management.
-* **[Trend E-commerce Store]** - Full-Stack platform built with Pure **PHP** and focused on high-performance loading and scalability.
-* **[(https://kenana-mohammad.github.io/Portfolio_frontend/)]** - frontend
-*  **[https://kenana-mohammad.github.io/TASK1-ReactVilla/]** React villa
-*   **[https://github.com/kenana-mohammad/VeterinaryApplication]** Developing a veterinary clinic application that utilizes the Pusher platform to provide real-time chat
-and notification features, enhancing user experience and facilitating communication between pet owners and veterinarians
-* **[https://kenana-mohammad.github.io/LandingPageCompany/]** react landingPage
-*  **[https://github.com/kenana-mohammad/Library_Managment_system]** laravrl advanced 
----
+* **[Veterinary Clinic Application (Real-Time)]** - A **Laravel**-based application utilizing **Pusher** for real-time chat and notifications, demonstrating proficiency in enhanced user experience and service integration.
+    * *(Repo: [https://github.com/kenana-mohammad/VeterinaryApplication])*
+
+* **[Library Management System (Laravel Advanced)]** - An advanced system built with **Laravel** demonstrating complex database relationships, efficient Back-End logic, and robust **MVC** architecture.
+    * *(Repo: [https://github.com/kenana-mohammad/Library_Managment_system])*
+
+* **[Perfume Store Back-End (https://github.com/kenana-mohammad/ecommerce_perfumes)]** - System designed to manage internal e-commerce operations including product, order, and user management, showcasing strong Back-End organizational skills.
+
+* **[Trend E-commerce Store]** - **Full-Stack** platform built with Pure **PHP**, focused on high-performance loading and **scalability**.
+
+* **[React Villa]** - A dedicated Front-End project showcasing modern UI/UX design and component-based architecture using **React**.
+    * *(Live Demo: [https://kenana-mohammad.github.io/TASK1-ReactVilla/])*
+
+* **[Portfolio & Landing Pages]** - Collection of Front-End work demonstrating skills in responsive design and modern styling (**[Portfolio Frontend]**, **[React LandingPage]**).
+    * *(Links: [https://kenana-mohammad.github.io/Portfolio_frontend/], [https://kenana-mohammad.github.io/LandingPageCompany/])*
 
