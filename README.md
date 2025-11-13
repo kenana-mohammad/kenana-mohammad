@@ -19,8 +19,6 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 
 ---
 ### 🔥 Featured Projects
-### 🔥 Featured Projects
-
 * **[Veterinary Clinic Application (Real-Time)]** - A **Laravel**-based application utilizing **Pusher** for real-time chat and notifications, demonstrating proficiency in enhanced user experience and service integration.
     * *(Repo: [https://github.com/kenana-mohammad/VeterinaryApplication])*
 
@@ -35,5 +33,13 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
     * *(Live Demo: [https://kenana-mohammad.github.io/TASK1-ReactVilla/])*
 
 * **[Portfolio & Landing Pages]** - Collection of Front-End work demonstrating skills in responsive design and modern styling (**[Portfolio Frontend]**, **[React LandingPage]**).
-    * *(Links: [https://kenana-mohammad.github.io/Portfolio_frontend/], [https://kenana-mohammad.github.io/LandingPageCompany/])*
+* ---
+  ---
+### 🤝 Let's Connect
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [رابط ملفك الشخصي على LinkedIn](https://www.linkedin.com/in/kenana-mohammad)] |
+| **Email** | [kinana2632@gmail.com] |
+
 
