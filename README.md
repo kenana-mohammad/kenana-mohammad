@@ -8,4 +8,6 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 | Area | Technologies / Skills | Focus |
 | :--- | :--- | :--- |
 | **Back-End** | **PHP**, **Laravel** (MVC), RESTful APIs | System Architecture, Security, Data Handling |
-| **Front-End** | **JavaScript**, **CSS3**, **HTML5** | Interactive UI/UX, Optimization, Responsiveness |
+| **Front-End** | **JavaScript**, **CSS3**, **Reactjs** | Interactive UI/UX, Optimization, Responsiveness |
+| **Database** | MySQL (Performance Optimization, SQL JOINs) | Efficient Data Structuring, Query Optimization |
+| **Core Skills** | **Algorithmic Thinking**, Complex Problem-Solving | Clean Code, Scalability, Efficiency |
