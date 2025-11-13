@@ -1,4 +1,4 @@
-Hi there, I'm kenana**(Full-Stack Developer)**- web developer
+Hi there, I'm kenana**Full-Stack Web Developer**- web developer
 - skills: backend:Laravel;php;Sql
 - .Js..Bootstrap..jqurey..css .html ..React
 - 
