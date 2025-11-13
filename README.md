@@ -18,3 +18,9 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 * **🛠️ Full-Stack Capability:** Skilled in managing and delivering projects across the entire stack, from database design to the final user interface.
 
 ---
+### 🔥 Featured Projects
+
+* **[Perfume Store Back-End]** - System designed to manage internal e-commerce operations including product, order, and user management.
+* **[Trend E-commerce Store]** - Full-Stack platform built with Pure **PHP** and focused on high-performance loading and scalability.
+* **[(https://kenana-mohammad.github.io/Portfolio_frontend/)]** - frontend 
+---
