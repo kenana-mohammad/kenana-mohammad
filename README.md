@@ -40,7 +40,7 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/kenana-mohammad)] |
+| **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/kenana-mohammad) |
 | **Email** | [kinana2632@gmail.com] |
 
 
