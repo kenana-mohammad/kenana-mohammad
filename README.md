@@ -19,6 +19,7 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 
 ---
 ### 🔥 Featured Projects
+* **[TrendEcommerce]** 
 * **[Veterinary Clinic Application (Real-Time)]** - A **Laravel**-based application utilizing **Pusher** for real-time chat and notifications, demonstrating proficiency in enhanced user experience and service integration.
     * *(Repo: [https://github.com/kenana-mohammad/VeterinaryApplication])*
 
@@ -39,7 +40,7 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [رابط ملفك الشخصي على LinkedIn](https://www.linkedin.com/in/kenana-mohammad)] |
+| **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/kenana-mohammad)] |
 | **Email** | [kinana2632@gmail.com] |
 
 
