@@ -24,4 +24,7 @@ I am a motivated **Full-Stack Web Developer** with **2.5 years of hands-on exper
 * **[Trend E-commerce Store]** - Full-Stack platform built with Pure **PHP** and focused on high-performance loading and scalability.
 * **[(https://kenana-mohammad.github.io/Portfolio_frontend/)]** - frontend
 *  **[https://kenana-mohammad.github.io/TASK1-ReactVilla/]** React villa
+*   **[https://github.com/kenana-mohammad/VeterinaryApplication]** Developing a veterinary clinic application that utilizes the Pusher platform to provide real-time chat
+and notification features, enhancing user experience and facilitating communication between pet owners and veterinarians
+* **[https://kenana-mohammad.github.io/LandingPageCompany/]** react landingPage
 ---
